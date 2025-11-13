@@ -50,9 +50,15 @@ Each NumPadX sends {Right X-1}{Enter} to select the corresponding app.
 
 - Switch Numpad Enhanced.ahk — main script
 
+
 ---
 
 🧪 Notes
 
 - Works best when task switcher order is predictable.
 - You can customize the $ trigger or extend the logic for more apps.
+
+- 🌹🌹🌹🌹🌹
+
+- 🔽 [Download the full AutoHotkey Tools Pack](https://github.com/AndrianAngel/Autohotkey-Tools/releases/tag/Release2025_11_13)
+  
