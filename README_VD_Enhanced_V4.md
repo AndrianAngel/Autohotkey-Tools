@@ -11,8 +11,8 @@ This script extends the functionality of Windows Virtual Desktops using intuitiv
 - Remove desktop: Alt + NumPad-
 - Pin/unpin window: NumPad0
 - Getters:
-  - F1: Current desktop
-  - F2: Total desktops
+  - Alt + F1: Current desktop
+  - Alt + F2: Total desktops
   - F6: Desktop of current window
 
 🧠 How It Works
