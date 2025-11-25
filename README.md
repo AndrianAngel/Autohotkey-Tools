@@ -62,7 +62,10 @@ Each NumPadX sends {Right X-1}{Enter} to select the corresponding app.
 
 - 🔽 [Download the full AutoHotkey Tools Pack](https://github.com/AndrianAngel/Autohotkey-Tools/releases/tag/Release2025_11_13)
 
-  
+
+
+---
+
 2 - 🔒 Close All Windows With Confirmation (^F9)
 
 This AutoHotkey script closes all open windows—except Rainmeter—after a confirmation dialog. It's a fast way to declutter your desktop without affecting essential overlays.
@@ -93,5 +96,11 @@ This AutoHotkey script closes all open windows—except Rainmeter—after a conf
 🧪 Example Use Case
 
 You're running multiple explorer windows, notepad instances, and browser tabs. One hotkey declutters everything—except your Rainmeter skin.
+
+
+
+---
+
+
 
   
