@@ -64,6 +64,14 @@ Each NumPadX sends {Right X-1}{Enter} to select the corresponding app.
 
 
 
+Switcher Guide
+
+
+
+![sw Settings](Images/sw.jpg)
+
+
+
 ---
 
 2 - 🔒 Close All Windows With Confirmation (^F9)
