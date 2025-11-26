@@ -1,4 +1,4 @@
-🖥️ VD Enhanced V3 — Custom Virtual Desktop Hotkeys
+🖥️ VD Enhanced V4 — Custom Virtual Desktop Hotkeys
 
 This script extends the functionality of Windows Virtual Desktops using intuitive NumPad-based hotkeys. It’s a modified version of FuPeiJiang’s VirtualDesktop.ahk library, tailored for faster access, window movement, and GUI-based onboarding.
 
