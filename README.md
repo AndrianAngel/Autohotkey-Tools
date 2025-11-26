@@ -64,11 +64,11 @@ Each NumPadX sends {Right X-1}{Enter} to select the corresponding app.
 
 
 
-Switcher Guide
+Switcher
 
 
 
-![sw Settings](Images/sw.jpg)
+![Switcher](Images/sw.jpg)
 
 
 
