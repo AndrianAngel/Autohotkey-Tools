@@ -68,7 +68,7 @@ Switcher
 
 
 
-![Switcher](Images/sw.jpg)
+![sw Settings](Images/sw.JPG)
 
 
 
