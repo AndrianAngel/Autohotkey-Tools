@@ -318,6 +318,18 @@ See LICENSE for details.
 
 ---
 
+8 - 🎯 VD Enhanced V5 Smooth 🎯
+
+🛠 Bug Fix & Enhancement: Smooth Move-and-Follow Transition
+- Issue Fixed: Previously, when using the Move and Follow hotkey (Ctrl + Win + Numpad), the transition could cause a brief "screen break" or flicker, especially noticeable on Windows 11.  
+- Improvement: Added a smooth transition delay between moving the window and switching desktops.  
+- Details:  
+  - Delay increased to 300 ms for better stability on Windows 11.  
+  - 150 ms still works reliably on Windows 10, but may not be sufficient for Windows 11.  
+- Result: No more breaking screen effect — transitions are now seamless and visually stable across desktops.
+
+---
+
 
 
 
